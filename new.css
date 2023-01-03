@@ -7,3 +7,17 @@ h1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
 }
+.text {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 25px ;
+    background-color: blue;
+    text-align: center;
+    width: 75%;
+
+}
+.shadow1{
+    box-shadow: 20px 15px 5px 6px #9127276e ;
+    width: 75% ;
+    padding: 2px ;
+}
